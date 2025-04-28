@@ -55,7 +55,7 @@ $ sudo dnf update -y
 
 ---
 
-[Oracle DB 23ai]()
+[Oracle DB 23ai](https://www.oracle.com/database/free/get-started/)
 ```bash
 ```
 
