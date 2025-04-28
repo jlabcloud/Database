@@ -47,6 +47,8 @@ $ sudo dnf update -y
 ---
 
 [Oracle DB 23ai]()
+```bash
+```
 
 ---
 
@@ -56,6 +58,10 @@ $ podman login container-registry.oracle.com
 $ podman pull container-registry.oracle.com/goldengate/goldengate-studio-free:latest
 $ docker run -p 80:80 -p 443:443 container-registry.oracle.com/goldengate/goldengate-studio-free:latest
 
+```
+
+[Oracle Exadata](https://www.oracle.com/engineered-systems/exadata/)
+```bash
 ```
 
 
