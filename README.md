@@ -5,6 +5,7 @@ A correctly provisioned vm without an interface
 Then you want to connect to the database!
 ```
 - I can do better
+- [Example](https://github.com/JesseDev3/linux/blob/main/el9_setup.md) el9 VM setup
 
 ## [Database Connection](https://docs.oracle.com/en/operating-systems/oracle-linux/asmlib/asmlib-Preface.html#preface)
 
