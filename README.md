@@ -1,3 +1,11 @@
+```bash
+This isn't up for debate
+First, you have to create
+A correctly provisioned vm without an interface
+Then you want to connect to the database!
+```
+- I can do better
+
 ## [Database Connection](https://docs.oracle.com/en/operating-systems/oracle-linux/asmlib/asmlib-Preface.html#preface)
 
 ### ASMLIB v3
